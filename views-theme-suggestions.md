@@ -1,6 +1,4 @@
-A bug in the Views module prevents theme hook suggestions from being rendered in Twig debug mode. This thread has a patch that helps the issue, but in my testing, it does not totally fix it
-[PP-1] Use hook_theme_suggestions in views
-https://www.drupal.org/node/2923634
+A bug in the Views module prevents theme hook suggestions from being rendered in Twig debug mode.
 
 Here's what Drupal is looking for:
 ```

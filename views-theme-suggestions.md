@@ -2,7 +2,10 @@ A bug in the Views module prevents theme hook suggestions from being rendered in
 
 Here's what Drupal is looking for:
 ```
-View, named foobar. Style: unformatted. Row style: Fields. Display: Page.
+View, named foobar
+Style: unformatted 
+Row style: fields 
+Display: page
 
 views-view--foobar--page.html.twig
 views-view--page.html.twig

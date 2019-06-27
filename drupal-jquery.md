@@ -1,4 +1,4 @@
-Still have to support jQuery. Here's a reminder to wrap jQuery in a....wrapper?
+It's 2019, and I still have to support jQuery. Here's a reminder to wrap jQuery in a....wrapper?
 
 ```
 (function ($) {

@@ -7,3 +7,4 @@
 - Git sub-projects
 - Documenting and applying patches via composer
 - Digital Ocean application hosting (AWS is....ugh)
+- Search API Solr facets

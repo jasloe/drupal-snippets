@@ -1,4 +1,4 @@
-### A few things to look into
+### A few things to look into:
 - Tugboat (visual recursion testing)
 - Travis
 - Post-CSS/Webpack theme (min)

@@ -37,3 +37,7 @@ https://www.drupal.org/files/issues/2018-08-29/2868014-55.patch
 Filefield Paths
 https://www.drupal.org/files/issues/2019-03-07/call_to_undefined-2718783-16.patch
 ```
+```
+Fixes "hide if empty"
+https://www.drupal.org/files/issues/2019-11-18/2950758-views-hide-empty-18.patc
+```

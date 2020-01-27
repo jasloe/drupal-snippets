@@ -41,3 +41,7 @@ https://www.drupal.org/files/issues/2019-03-07/call_to_undefined-2718783-16.patc
 Fixes "hide if empty"
 https://www.drupal.org/files/issues/2019-11-18/2950758-views-hide-empty-18.patc
 ```
+```
+Editing admin user profile breaks with hide revision field enabled
+https://www.drupal.org/files/issues/2019-06-10/hide_revision_field-3018160-user_profile_error_plus_media_incompatibility-12.patch
+```

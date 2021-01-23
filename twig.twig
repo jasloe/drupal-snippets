@@ -1,1 +1,6 @@
-
+{# Check if views field is empty #}
+{% if content.field_person_portrait|render|striptags|trim %}
+  {{ field_person_portrait }}
+{% else %}
+  no portrait
+{% endif %}

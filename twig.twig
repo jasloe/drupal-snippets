@@ -4,3 +4,11 @@
 {% else %}
   no portrait
 {% endif %}
+
+{% if field_events_event_dates_overrid|render|striptags|trim %}
+  {{ field_events_event_dates_overrid }}
+{% else %}
+  {{ field_events_event_dates }} 
+{% endif %}
+
+{{ field_events_event_dates_overrid }}

@@ -8,10 +8,9 @@ max_heap_table_size=92M
 sort_buffer_size=4M
 ```
 
-
+https://github.com/thinktandem/migrate_booster
 
 ```
-// https://github.com/thinktandem/migrate_booster
 $config['migrate_booster.settings']['modules'] = [
   'admin_toolbar_tools',
   'autosave_form',

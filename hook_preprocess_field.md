@@ -8,7 +8,7 @@ As such, here's quick snippet for removing the protocol prefix for a link field.
 {% for item in items %}
   <div{{attributes.addClass(classes,'field-item')}}>{{ item.content }}
   {{ vardumper(item) }}
-	</div>
+  </div>
 {% endfor %}
 
 ...returns the content array.

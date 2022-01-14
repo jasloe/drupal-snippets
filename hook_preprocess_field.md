@@ -11,16 +11,15 @@ As such, here's quick snippet for removing the protocol prefix for a link field.
   </div>
 {% endfor %}
 
+```
 ...returns the content array.
 
 @yourtheme.theme
 
-```
 /**
  * Implements yourtheme_preprocess_field().
  */
-function yourtheme_preprocess_field(&$variables) {
-  // probably add a check here   
+function yourtheme_preprocess_field(&$variables) {  
   if ($variables['element']['#field_name'] == 'field_external_link') {
     xdebug_break();
     $item_uri = $variables["items"][0]["content"]["#title"];

@@ -14,6 +14,7 @@ As such, here's quick snippet for removing the protocol prefix for a link field.
 ```
 ...returns the content array.
 
+```
 @yourtheme.theme
 
 /**

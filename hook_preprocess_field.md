@@ -1,6 +1,6 @@
 It's staggering to me that there isn't a simple example for preprocessing a given field presented in a render array. While the often out-of-date information strewn haphazardly around the documentation chapters of the site, d.o sorely lacks *simple*, replicable examples for the developer. Reading and re-reading the API is undoubtedly part of the developer's job, sometimes you just need to get stuff done.  
 
-As such, here's quick snippet for removing the protocol prefix for a link field. Not that resilient, no tests, and likely won't help your use case, but i
+As such, here's quick snippet for removing the protocol prefix for a link field. Not that resilient, no tests, and likely won't help your use case.
 
 ```
 @field--node--field-external-link.html.twig
